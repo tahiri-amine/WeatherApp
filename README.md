@@ -13,7 +13,9 @@ python weather.py -n Oujda
 - Better output format
 - Full error handling
 ## Project Structure
+```
 WeatherApp/
 ├── weather.py
 ├── requirement.txt
 └── README.md
+```
